@@ -1,4 +1,4 @@
-
+# All about typora
 ## Installation instructions for different flavours of Linux.
 
 1. Debian/Ubuntu
@@ -29,5 +29,5 @@ sudo apt-get update
 sudo apt-get install typora
 ```
 
-[1]: https://support.typora.io/Typora-on-Linux/	"" Install typora on Linux ""
+[1]: https://support.typora.io/Typora-on-Linux/	" Install typora on Linux "
 
